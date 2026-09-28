@@ -4,9 +4,9 @@
 
 - [최신 설치 파일](https://github.com/cusomelab/rocket-pro-downloads/releases/latest/download/CUSOME_RocketPRO_Setup.exe)
 - [버전별 배포 파일](https://github.com/cusomelab/rocket-pro-downloads/releases)
-- [라이선스 관리](https://www.cusome.kr/lic-admin.html)
+- [CUSOME 안내](https://www.cusome.kr/)
 
-설치 후 전달받은 닉네임과 활성 코드를 입력하세요. 프로그램은 등록 PC와 이용 기간을 확인합니다. 최초 실행에는 인터넷 연결이 필요합니다.
+설치 후 전달받은 닉네임과 활성 코드를 입력하세요. 프로그램은 등록 PC와 이용 기간을 확인합니다. 프로그램을 새로 실행할 때는 인터넷 연결이 필요합니다.
 
 바탕화면의 CUSOME 로켓배송 PRO 아이콘으로 시작하면 새 업데이트를 확인합니다. 업데이트는 공식 서명을 확인한 뒤 적용하며, 실패하면 이전 버전으로 복구합니다. 작업 중에는 먼저 작업을 마치고 업데이트하세요.
 
